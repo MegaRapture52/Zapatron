@@ -1,0 +1,1 @@
+This is the code for your Slave ESP32. this one will be directed by the master's code. Ensure you have the PlaformIO extension installed in VScode and have all extensions inside code 
